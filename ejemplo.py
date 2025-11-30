@@ -13,3 +13,7 @@ def sumar(num, num2):
 
 
 print("Nueva funcion agregada")
+
+def multiplicar(num, num2):
+    return num*num2
+
